@@ -1,0 +1,1 @@
+[05-Jun-2020 09:12:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::contacts() in /home/minhcand/public_html/catba.guidevoyagevietnamlaos.com/app/Http/Controllers/Frontend/FrontendController.php on line 115

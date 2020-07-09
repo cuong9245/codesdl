@@ -1,0 +1,1 @@
+<?php Route::get('/','Frontend\FrontendController@homes')->name('home');  Route::get('about','Frontend\FrontendController@aboutUs')->name('about us');  Route::get('/blog','Frontend\FrontendController@blog')->name('blog');  Route::get('/becomelocalexpress','Frontend\FrontendController@becomeLocalExpress')->name('become local express'); 
